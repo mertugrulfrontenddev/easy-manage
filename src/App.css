@@ -4,7 +4,7 @@
   letter-spacing: 0.5rem;
   font-size: large;
   text-decoration: none;
-  padding: 15px;
+  padding: 1px;
   margin-left: 10px;
 }
 
@@ -14,9 +14,9 @@
 }
 
 .main-bg {
-  background-color: rgb(21, 24, 37) !important;
+  background-color: rgb(255, 255, 255) !important;
 }
 
 .main-text {
-  color: rgb(201, 201, 201);
+  color: rgb(21, 24, 37) !important;
 }
