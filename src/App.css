@@ -1,0 +1,22 @@
+.nav-linka {
+  color: rgb(21, 24, 37) !important;
+  font-weight: bold !important;
+  letter-spacing: 0.5rem;
+  font-size: large;
+  text-decoration: none;
+  padding: 15px;
+  margin-left: 10px;
+}
+
+.nav-linka:hover {
+  color: rgb(255, 255, 255) !important;
+  font-weight: bold !important;
+}
+
+.main-bg {
+  background-color: rgb(21, 24, 37) !important;
+}
+
+.main-text {
+  color: rgb(201, 201, 201);
+}
